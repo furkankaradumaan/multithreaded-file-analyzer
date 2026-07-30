@@ -49,13 +49,13 @@ make
 ## Usage
 
 ```bash
-./parallel-file-analyzer <directory>
+./main <directory>
 ```
 
 Example:
 
 ```bash
-./parallel-file-analyzer ./sample_files
+./main ./sample_files
 ```
 
 ---
